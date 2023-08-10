@@ -9,38 +9,6 @@ import 'aos/dist/aos.css'
 import Footer from './components/Footer';
 import { useEffect } from 'react';
 
-// import * as React from "react";
-// import { createRoot } from "react-dom/client";
-// import {
-//   createBrowserRouter,
-//   RouterProvider,
-//   Route,
-//   Link,
-// } from "react-router-dom";
-
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <Hero/>,
-//   },
-//   {
-//     path: "/aboutme",
-//     element: <Aboutme/>,
-//   },
-//   {
-//     path: "/education",
-//     element: <Education/>,
-//   },
-//   {
-//     path: "/artworks",
-//     element: <Artwork/>,
-//   },
-// ]);
-
-// createRoot(document.getElementById("root")).render(
- 
-// );
-
 
 function App() {
   useEffect(()=>{
