@@ -20,6 +20,13 @@ const posts = [
         'Built a fully-fledged backend environment and created different routes for a shoe website using NodeJS and Mongo DB.',
       category: { title: 'HTML, CSS, JavaScript, NodeJS, Mongo DB'},
     },
+    {
+      id: 4,
+      title: 'Mobile Design',
+      description:
+        'Designed the mobile version prototype of the Greater Sacramento Nepalese Community Center website ensuring a user-friendly and visually appealing interface.',
+      category: { title: 'Figma'},
+    },
     // More posts...
   ]
   
