@@ -1,11 +1,12 @@
 const posts = [
-    {
+    {    
       id: 1,
-      title: 'GitHub Analytics',
+      title: 'Inventory Request System for Valley Tech Systems ',
       description:
-        'Developed a web app that allows people to view GitHub users profile, stats, and public repositories. Used Redux to keep track of the states and be used by other components in React. Designed the overall web app using React and Material-UI.',
-      category: { title: 'React-Redux, Material UI' },
-    },
+      'Developed an internal website using Agile methodology and designed the user interface using Figma to streamline the equipment request process for managers at Valley Tech Systems, ensuring effective tracking of requests.',
+      category: { title: 'Figma, JavaScript, NodeJS, SQL'},
+    }
+   ,
     {
       id: 2,
       title: 'E-commerce Website',
@@ -15,10 +16,10 @@ const posts = [
     },
     {
       id: 3,
-      title: 'Shoe Website',
+      title: 'GitHub Analytics',
       description:
-        'Built a fully-fledged backend environment and created different routes for a shoe website using NodeJS and Mongo DB.',
-      category: { title: 'HTML, CSS, JavaScript, NodeJS, Mongo DB'},
+        'Developed a web app that allows people to view GitHub users profile, stats, and public repositories. Used Redux to keep track of the states and be used by other components in React. Designed the overall web app using React and Material-UI.',
+      category: { title: 'React-Redux, Material UI' },
     },
     {
       id: 4,
@@ -27,6 +28,14 @@ const posts = [
         'Designed the mobile version prototype of the Greater Sacramento Nepalese Community Center website ensuring a user-friendly and visually appealing interface.',
       category: { title: 'Figma'},
     },
+    {
+      id: 4,
+      title: 'Shoe Website',
+      description:
+        'Built a fully-fledged backend environment and created different routes for a shoe website using NodeJS and Mongo DB.',
+      category: { title: 'HTML, CSS, JavaScript, NodeJS, Mongo DB'},
+    },
+   
     // More posts...
   ]
   
