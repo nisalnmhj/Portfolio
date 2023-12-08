@@ -3,7 +3,8 @@ import Education from './components/Education';
 import Aboutme from './components/Aboutme';
 import Artwork from './components/Artworks';
 import Contactme from './components/Contactme';
-import Projects from './components/Projects'
+import Projects from './components/Projects';
+// import Certifications from './components/Certifications';
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import Footer from './components/Footer';

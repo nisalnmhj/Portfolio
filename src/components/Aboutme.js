@@ -8,8 +8,8 @@ const features = [
     { name: 'Internships', title: 'NSTEM (Apr 2023 - Aug 2023)', 
     description: 'Developed a check out page to sell organization merchandise using React Native Which increased 20% of the merchandise sales.' },
     { name: 'Employments', 
-      title: 'Price Common, Wisconsin (Sep 2021 - Dec 2021)', 
-      description: 'Set up Fast Foods/Pizza/Sub Cook, Campus Dining, Stocker, Cashier', 
+      title: 'Math Tutor, California State University, Sacramento(Aug 2023 - Present)', 
+      description: 'I provide tailored guidance in Calculus I, II, and III to a diverse group of over 20 undergraduate students.', 
       tittle1: 'The cultural Art and Digital Print (Feb 2019 to Aug 2021)',
       description1: 'Handling and responding to mails, scanning, printing and fulfilling office supplies.'
     },

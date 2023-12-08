@@ -16,11 +16,12 @@ const posts = [
     },
     {
       id: 3,
-      title: 'GitHub Analytics',
+      title: 'Web Blog Application',
       description:
-        'Developed a web app that allows people to view GitHub users profile, stats, and public repositories. Used Redux to keep track of the states and be used by other components in React. Designed the overall web app using React and Material-UI.',
-      category: { title: 'React-Redux, Material UI' },
+        'Developed a full stack blog application using MERN stack that allows users to create, edit and delete daily blogs. Blogs can also have comments which can be edited and deleted.',
+      category: { title: 'MongoDB, Express js, React, NodeJs, Tailwind CSS' },
     },
+    
     {
       id: 4,
       title: 'Mobile Design',
@@ -29,11 +30,18 @@ const posts = [
       category: { title: 'Figma'},
     },
     {
-      id: 4,
+      id: 5,
       title: 'Shoe Website',
       description:
         'Built a fully-fledged backend environment and created different routes for a shoe website using NodeJS and Mongo DB.',
       category: { title: 'HTML, CSS, JavaScript, NodeJS, Mongo DB'},
+    },
+    {
+      id: 6,
+      title: 'Dictionary Application',
+      description:
+        'Developed a dictionary application using HTML, CSS and javascript that allows users to search the words.',
+      category: { title: 'HTML, CSS, javascript' },
     },
    
     // More posts...

@@ -25,6 +25,8 @@ const education = [
       link : 'https://www.prasadi.edu.np/'
       }
   ]
+
+
   
   export default function Education() {
     return (
