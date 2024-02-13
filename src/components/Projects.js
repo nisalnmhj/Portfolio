@@ -3,7 +3,7 @@ const posts = [
       id: 1,
       title: 'Inventory Request System for Valley Tech Systems ',
       description:
-      'Developed an internal website using Agile methodology and designed the user interface using Figma to streamline the equipment request process for managers at Valley Tech Systems, ensuring effective tracking of requests.',
+      'Developed an internal website using Agile methodology and designed user interface using Figma streamling the equipment request process for managers at VTS Company, ensuring effective tracking of requests.',
       category: { title: 'Figma, JavaScript, NodeJS, SQL'},
     }
    ,
@@ -62,11 +62,11 @@ export default function Projects() {
                      bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"> 
                      {post.category.title}
                      </p>
-                <div className="group relative ">
+                <div className="group relative">
                   <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
                       {post.title}
                   </h3>
-                  <p className="mt-5 line-clamp-3 text-sm leading-6 text-gray-600 transition duration-300 ease-in-out group-hover:scale-110">{post.description}</p>
+                  <p className="mt-5 line-clamp-6 text-sm leading-6 text-gray-600 transition duration-300 ease-in-out group-hover:scale-110">{post.description}</p>
                 </div>
                
               </article>
