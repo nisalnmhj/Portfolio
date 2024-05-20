@@ -1,6 +1,14 @@
 const posts = [
+  {    
+    id: 1,
+    title: 'Chat Application with Client/Server Model',
+    description:
+    'Developed a Python-based client-server chat app using Linux stream sockets. Implemented a scalable server architecture supporting up to 10 concurrent clients with features including user registration, messaging, and broadcasting. Demonstrates proficiency in network programming and protocol design.',
+    category: { title: 'Python, Linux, Sockets, Server, Vim'},
+  }
+ ,
     {    
-      id: 1,
+      id: 2,
       title: 'Inventory Request System for Valley Tech Systems ',
       description:
       'Developed an internal website using Agile methodology and designed user interface using Figma streamling the equipment request process for managers at VTS Company, ensuring effective tracking of requests.',
@@ -8,14 +16,14 @@ const posts = [
     }
    ,
     {
-      id: 2,
+      id: 3,
       title: 'E-commerce Website',
       description:
         'Built a fully-fledged ecommerce website with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features.',
       category: { title: 'Javascript, React-Redux, Tailwind, NodeJs, MongoDB, REST API'},
     },
     {
-      id: 3,
+      id: 4,
       title: 'Web Blog Application',
       description:
         'Developed a full stack blog application using MERN stack that allows users to create, edit and delete daily blogs. Blogs can also have comments which can be edited and deleted.',
@@ -23,21 +31,21 @@ const posts = [
     },
     
     {
-      id: 4,
+      id: 5,
       title: 'Mobile Design',
       description:
         'Designed the mobile version prototype of the Greater Sacramento Nepalese Community Center website ensuring a user-friendly and visually appealing interface.',
       category: { title: 'Figma'},
     },
     {
-      id: 5,
+      id: 6,
       title: 'Shoe Website',
       description:
         'Built a fully-fledged backend environment and created different routes for a shoe website using NodeJS and Mongo DB.',
       category: { title: 'HTML, CSS, JavaScript, NodeJS, Mongo DB'},
     },
     {
-      id: 6,
+      id: 7,
       title: 'Dictionary Application',
       description:
         'Developed a dictionary application using HTML, CSS and javascript that allows users to search the words.',
